@@ -12,16 +12,16 @@ Prediction of  power (Kw/h) generated from the windmills based on features provi
 
 I solved this problem by using Pycaret library for model building and Pandas Profiling for Data Analysis.
 
-####[PyCaret](https://pycaret.org) 
-Pycaret is an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within seconds in your choice of notebook environment.
-PyCaret being a low-code library makes you more productive. With less time spent coding, you and your team can now focus on business problems.
-PyCaret is simple and easy to use machine learning library that will help you to perform end-to-end ML experiments with less lines of code.
-PyCaret is a business ready solution. It allows you to do prototyping quickly and efficiently from your choice of notebook environment.
+#### [PyCaret](https://pycaret.org)<br> 
+Pycaret is an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within seconds in your choice of notebook environment.<br>
+PyCaret being a low-code library makes you more productive. With less time spent coding, you and your team can now focus on business problems.<br>
+PyCaret is simple and easy to use machine learning library that will help you to perform end-to-end ML experiments with less lines of code.<br>
+PyCaret is a business ready solution. It allows you to do prototyping quickly and efficiently from your choice of notebook environment.<br>
 
-####[Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)
-Pandas Profiling Generates profile reports from a pandas DataFrame. The pandas df.describe() function is great but a little basic for serious exploratory data analysis. pandas_profiling extends the pandas DataFrame with df.profile_report() for quick data analysis.
+#### [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)<br>
+Pandas Profiling Generates profile reports from a pandas DataFrame. The pandas df.describe() function is great but a little basic for serious exploratory data analysis. pandas_profiling extends the pandas DataFrame with df.profile_report() for quick data analysis.<br>
 
-For each column the following statistics - if relevant for the column type - are presented in an interactive HTML report:
+For each column the following statistics - if relevant for the column type - are presented in an interactive HTML report:<br>
 <p>
 Type inference: detect the types of columns in a dataframe.<br>
 Essentials: type, unique values, missing values<br>
