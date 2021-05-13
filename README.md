@@ -12,7 +12,7 @@ Prediction of  power (Kw/h) generated from the windmills based on features provi
 
 I solved this problem by using Pycaret library for model building and Pandas Profiling for Data Analysis.
 
-<strong>[PyCaret](https://pycaret.org)</strong> is an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within seconds in your choice of notebook environment.
+<h3>[PyCaret](https://pycaret.org)</h3> is an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within seconds in your choice of notebook environment.
 
 PyCaret being a low-code library makes you more productive. With less time spent coding, you and your team can now focus on business problems.
 
@@ -20,7 +20,7 @@ PyCaret is simple and easy to use machine learning library that will help you to
 
 PyCaret is a business ready solution. It allows you to do prototyping quickly and efficiently from your choice of notebook environment.
 
-<strong>[Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)(/strong)  Generates profile reports from a pandas DataFrame. The pandas df.describe() function is great but a little basic for serious exploratory data analysis. pandas_profiling extends the pandas DataFrame with df.profile_report() for quick data analysis.
+<h3>[Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)</h3>  Generates profile reports from a pandas DataFrame. The pandas df.describe() function is great but a little basic for serious exploratory data analysis. pandas_profiling extends the pandas DataFrame with df.profile_report() for quick data analysis.
 
 For each column the following statistics - if relevant for the column type - are presented in an interactive HTML report:
 <p>
